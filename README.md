@@ -1,7 +1,7 @@
 
 # 🚀 Meta Data Retrieval for Data Infrastructure via RAG
 
-[📄 IEEE Paper (2024 ICWS)](https://ieeexplore.ieee.org/document/10707445)
+[📄 CCF-B  (2024 ICWS)](https://ieeexplore.ieee.org/document/10707445)
 
 🧠  **DOR-RAF** : A RAG + Agent-based Data Characterization Framework
 
